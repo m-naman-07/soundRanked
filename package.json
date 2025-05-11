@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://m-naman-07.github.io/MELODEX",
+  "homepage": "https://m-naman-07.github.io/soundRanked",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
